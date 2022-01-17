@@ -1,4 +1,4 @@
-# QR-CODE-Program
+# QR-CODE-Programme
 
 This project make QR code which can be scan by any device.
 
